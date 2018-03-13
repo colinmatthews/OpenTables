@@ -1,0 +1,46 @@
+.right-nav{
+    padding-top: 2%;
+	float:right;
+}
+.excel-copy-group{
+    padding-top: 5%;
+}
+.left-nav{
+    display: inline-block;
+    vertical-align:top;
+}
+
+.form-inline input{
+   width:20%;
+}
+.inline-form select{
+    width: 20%;
+}
+
+.btn-variables{
+    float: right;
+}
+.sortUp{
+    border:0px solid transparent;
+    background-color: transparent;
+    vertical-align:bottom;
+
+}
+.sortDown{
+    border:0px solid transparent;
+    background-color: transparent;
+
+    vertical-align:bottom;
+}
+.btn-sort-group{
+    padding-left: 0;
+
+}
+.table-header{
+    text-align: left;
+    margin-top: 10%;
+}
+.pagination{
+    float: right;
+    margin-top: 0;
+}
